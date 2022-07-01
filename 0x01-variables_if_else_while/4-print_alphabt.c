@@ -1,11 +1,12 @@
 #include <stdio.h>
 
-/*
+/**
  * main - Entry point
  *
- * Description: Use `putchar` to print all letters but the letter 'q' and 'e' inside the main function.
+ * Description: Use `putchar` to print all letters but the letter 'q' and 'e'
+ * inside the main function.
  *
- * Return: Always 0 (Success
+ * Return: Always 0 (Success)
  */
 
 int main(void)
