@@ -2,7 +2,7 @@
 
 /**
  * _puts -  a function that prints a string, followed by a new line, to stdout
- * @str - char array string type
+ * @str: char array string type
  * return - newline after string is printed
  */
 
